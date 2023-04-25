@@ -1,2 +1,1 @@
-# keylogger v1
- basic python keylogger 
+This script logs the keyboard keys you press in a file called key_log.txt. You can press the esc key to stop the script. When using this script, be sure to pay attention to security and privacy issues. Monitoring other people's keyboard input is illegal and unethical.
