@@ -1,0 +1,7 @@
+import os
+
+# You can change log destination 
+log_file = os.path.join(os.path.expanduser("~"), "Desktop", "key_log.txt")
+
+# Configure log settings
+logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(asctime)s: %(message)s')
